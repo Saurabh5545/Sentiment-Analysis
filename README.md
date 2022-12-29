@@ -1,6 +1,11 @@
 # Sentiment-Analysis
 Sentiment analysis based on the words of used in twitter.
 
+Languages Used:-
+HTML used for web page,
+Python is used for machine learning
+Django is also used for framework.
+
 This project takes comments from Twitter and analyzes them.
 Then Based on the comment it creates a partition of the comments, 
 into three major sections positive, neutral, and negative.
