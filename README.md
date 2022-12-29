@@ -1,5 +1,5 @@
 # Sentiment-Analysis
-Sentiment analysis based on the words of used in twitter.
+Sentiment analysis based on the words used in Twitter.
 
 Languages Used:-
 HTML used for web page,
