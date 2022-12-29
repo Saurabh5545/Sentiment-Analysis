@@ -6,7 +6,7 @@ HTML used for web page,
 Python is used for machine learning
 Django is also used for framework.
 
-This project takes comments from Twitter and analyzes them.
+This project takes comments from Twitter and analyze them.
 Then Based on the comment it creates a partition of the comments, 
 into three major sections positive, neutral, and negative.
 Then it uses the graph to plot the percentage of those three sections.
